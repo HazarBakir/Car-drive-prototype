@@ -26,5 +26,5 @@ Car Driving Prototype is a simple prototype simulating the basic driving experie
 
 ## Screenshots
 
-![Car Driving Prototype](screenshot.png)
+![Car Driving Prototype](images/screenshot.png)
 
