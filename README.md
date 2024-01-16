@@ -1,4 +1,4 @@
-# Car Driving Prototype
+# Car Driving  Prototype
 
 ## Overview
 
@@ -6,14 +6,12 @@ Car Driving Prototype is a simple prototype simulating the basic driving experie
 
 ## Core Features
 
-### Controls
-
+### Car Controls
 - W: Accelerate
 - A: Turn Left
 - S: Reverse
 - D: Turn Right
-
-### On-Screen Indicators
+### Car Driving Prototype On-Screen Indicators
 
 - BPM (revolutions per minute): Indicates the engine's RPM.
 - KM/h (kilometers per hour): Displays the car's speed in kilometers.
