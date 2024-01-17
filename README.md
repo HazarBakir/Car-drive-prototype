@@ -1,4 +1,4 @@
-# Car Driving  Prototype & Plane Game Prototype
+# Car Driving  Prototype & Plane Game Prototype(Plane Game project is a challenge project, which means it's not on focus in this project)
 
 ## Car Project Overview
 
