@@ -1,4 +1,4 @@
-# Car Driving  Prototype & Plane Game Prototype(Plane Game project is a challenge project, which means it's not on focus in this project)
+# Car Driving Prototype & Plane Game Prototype (The Plane Game project is a challenge project, which means it's not the focus of this project)
 
 ## Car Project Overview
 
@@ -9,6 +9,7 @@ Car Driving Prototype is a simple prototype simulating the basic driving experie
 - A: Turn Left
 - S: Reverse
 - D: Turn Right
+
 ### Car Driving Prototype On-Screen Indicators
 
 - BPM (revolutions per minute): Indicates the engine's RPM.
@@ -24,10 +25,9 @@ Car Driving Prototype is a simple prototype simulating the basic driving experie
 
 ![Car Driving Prototype](images/screenshot.png)
 
-
 ## Plane Project
 
-Plane Game Project is a gameplay that player has to not collide with colliders while trying to control the plane
+Plane Game Project is a gameplay where the player must avoid colliding with colliders while trying to control the plane.
 
 ### Plane Controls
 - W: Rotate Down
@@ -35,8 +35,8 @@ Plane Game Project is a gameplay that player has to not collide with colliders w
 
 ## How to Play
 
-1. Plane goes forward automaticly and player should control the plane object with control keys
-
+1. The plane goes forward automatically, and the player must control the plane object with the control keys.
 
 ## Screenshot
+
 ![Plane Game Prototype](images/screenshot1.png)
